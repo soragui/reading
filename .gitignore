@@ -1,0 +1,5 @@
+
+# site ignore for jekyll
+
+_site
+.jekyll-cache
